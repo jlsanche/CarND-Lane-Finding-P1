@@ -46,5 +46,6 @@ Other than my lack of experience in scientific Python and Jupyter; curvy roads, 
 
 
 ### 3. Suggest possible improvements to your pipeline
+Finer tuning of parameters.  Leverage the power of opencv framework for more accuracy when improving draw_lines function.  Fix video issue mentioned above.
 
 
